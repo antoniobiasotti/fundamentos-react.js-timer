@@ -42,3 +42,10 @@ $ npm i
 ```
 Limpando estrutura de pastas: removendo arquivos desnecessários, como index.css; App.css; logos.svg etc.
 ****
+Styled Components
+```
+$ npm i styled-components
+```
+```
+$ npm i @types/styled-components -D
+```

@@ -28,5 +28,17 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-***
-- Initial Commit: Criação do projeto e configurações básicas
+****
+
+ Criação do projeto e configurações básicas
+
+Iniciando um projeto com vite para uma aplicação em react e typescrit
+```
+$ npm creaet vite@latest
+```
+Instalando dependências
+```
+$ npm i
+```
+Limpando estrutura de pastas: removendo arquivos desnecessários, como index.css; App.css; logos.svg etc.
+****
